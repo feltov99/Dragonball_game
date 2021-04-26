@@ -1,0 +1,10 @@
+E:\UNAM\5.- Semestre\Tecnicas de proggramación\ejercicios\ejercicio 7 juego\ejercicio 7 juego\bin\Debug\ejercicio 7 juego.exe.config
+E:\UNAM\5.- Semestre\Tecnicas de proggramación\ejercicios\ejercicio 7 juego\ejercicio 7 juego\bin\Debug\ejercicio 7 juego.exe
+E:\UNAM\5.- Semestre\Tecnicas de proggramación\ejercicios\ejercicio 7 juego\ejercicio 7 juego\bin\Debug\ejercicio 7 juego.pdb
+E:\UNAM\5.- Semestre\Tecnicas de proggramación\ejercicios\ejercicio 7 juego\ejercicio 7 juego\obj\Debug\ejercicio 7 juego.csprojAssemblyReference.cache
+E:\UNAM\5.- Semestre\Tecnicas de proggramación\ejercicios\ejercicio 7 juego\ejercicio 7 juego\obj\Debug\ejercicio_7_juego.juego.resources
+E:\UNAM\5.- Semestre\Tecnicas de proggramación\ejercicios\ejercicio 7 juego\ejercicio 7 juego\obj\Debug\ejercicio_7_juego.Properties.Resources.resources
+E:\UNAM\5.- Semestre\Tecnicas de proggramación\ejercicios\ejercicio 7 juego\ejercicio 7 juego\obj\Debug\ejercicio 7 juego.csproj.GenerateResource.cache
+E:\UNAM\5.- Semestre\Tecnicas de proggramación\ejercicios\ejercicio 7 juego\ejercicio 7 juego\obj\Debug\ejercicio 7 juego.csproj.CoreCompileInputs.cache
+E:\UNAM\5.- Semestre\Tecnicas de proggramación\ejercicios\ejercicio 7 juego\ejercicio 7 juego\obj\Debug\ejercicio 7 juego.exe
+E:\UNAM\5.- Semestre\Tecnicas de proggramación\ejercicios\ejercicio 7 juego\ejercicio 7 juego\obj\Debug\ejercicio 7 juego.pdb
